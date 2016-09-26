@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ColorSlider_Example' do
+  pod 'ColorSlider', :path => '../'
+
+  target 'ColorSlider_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

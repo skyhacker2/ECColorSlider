@@ -57,6 +57,7 @@
 {
     if (colorSlider.type == H) {
         _sSlider.color = colorSlider.color;
+        _vSlider.color = _sSlider.color;
     } else if (colorSlider.type == S) {
         _vSlider.color = colorSlider.color;
 //        _preview.backgroundColor = colorSlider.color;

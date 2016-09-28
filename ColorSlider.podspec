@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ColorSlider'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ColorSlider.'
+  s.summary          = 'A HSV Color Slider For iOS'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,15 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+A HSV Color Slider For iOS
+I don't found the color slider which I want, So I write it.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/ColorSlider'
+  s.homepage         = 'https://github.com/skyhacker2/ColorSlider'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Eleven Chen' => 'skyhacker@126.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/ColorSlider.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/skyhacker2/ColorSlider.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

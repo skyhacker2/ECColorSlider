@@ -1,0 +1,16 @@
+PODS:
+  - ColorSlider (0.1.0)
+
+DEPENDENCIES:
+  - ColorSlider (from `../`)
+
+EXTERNAL SOURCES:
+  ColorSlider:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ColorSlider: 82bb1f3fbe3e3cc0218c9fc6dda0a4d88365fbb7
+
+PODFILE CHECKSUM: bc882eaa9979593620eaf0c23282a61a7afea2da
+
+COCOAPODS: 1.0.0

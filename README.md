@@ -1,9 +1,6 @@
 # ColorSlider
 
-[![CI Status](http://img.shields.io/travis/Eleven Chen/ColorSlider.svg?style=flat)](https://travis-ci.org/Eleven Chen/ColorSlider)
-[![Version](https://img.shields.io/cocoapods/v/ColorSlider.svg?style=flat)](http://cocoapods.org/pods/ColorSlider)
-[![License](https://img.shields.io/cocoapods/l/ColorSlider.svg?style=flat)](http://cocoapods.org/pods/ColorSlider)
-[![Platform](https://img.shields.io/cocoapods/p/ColorSlider.svg?style=flat)](http://cocoapods.org/pods/ColorSlider)
+ ![screenshot](screenshot.jpg)
 
 ## Example
 

@@ -1,0 +1,6 @@
+framework module Pods_ColorSlider_Example {
+  umbrella header "Pods-ColorSlider_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

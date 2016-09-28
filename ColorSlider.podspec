@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ColorSlider'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A HSV Color Slider For iOS'
 
 # This description is used to generate tags and improve search results.

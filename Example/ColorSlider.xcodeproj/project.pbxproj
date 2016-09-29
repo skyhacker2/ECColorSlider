@@ -61,7 +61,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8CB8B2C199755B88C38A61DF /* Pods-ColorSlider_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ColorSlider_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ColorSlider_Tests/Pods-ColorSlider_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		91430D5F8EFC25DA2B71ABAF /* ColorSlider.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ColorSlider.podspec; path = ../ColorSlider.podspec; sourceTree = "<group>"; };
+		91430D5F8EFC25DA2B71ABAF /* ECColorSlider.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ECColorSlider.podspec; path = ../ECColorSlider.podspec; sourceTree = "<group>"; };
 		A3BFCFC9AC16015E59EB35C8 /* Pods-ColorSlider_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ColorSlider_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ColorSlider_Example/Pods-ColorSlider_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A58E77671D9BEFE5005F1E9E /* Launch.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Launch.storyboard; sourceTree = "<group>"; };
 		BA20618A0D9593396BCA5878 /* Pods_ColorSlider_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ColorSlider_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -178,7 +178,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				91430D5F8EFC25DA2B71ABAF /* ColorSlider.podspec */,
+				91430D5F8EFC25DA2B71ABAF /* ECColorSlider.podspec */,
 				488816D741172960E2BF037F /* README.md */,
 				2FCA6E2908D992DA5EAE6309 /* LICENSE */,
 			);
